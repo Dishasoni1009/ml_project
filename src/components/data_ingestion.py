@@ -73,7 +73,7 @@ class DataIngestion:
             raise CustomException(e, sys)
 
 if __name__ == "__main__":
-    csv_file_path = "notebooks/data/Loans.csv"  
+    csv_file_path = "/home/disha-soni/Desktop/project/ml_project/notebook/data/loans.csv"  
     ingestion = DataIngestion()
     train_data, test_data = ingestion.initiate_data_ingestion(csv_file_path)
     print("Data ingestion completed.")
