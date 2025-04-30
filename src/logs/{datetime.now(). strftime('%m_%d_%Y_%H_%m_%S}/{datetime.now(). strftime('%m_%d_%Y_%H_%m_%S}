@@ -1,0 +1,39 @@
+[2025-04-30 10:40:29,737] 35 root - INFO - Loading dataset from /home/disha-soni/Desktop/project/ml_project/notebook/data/loans.csv
+[2025-04-30 10:40:29,748] 37 root - INFO - Dataset loaded successfully with shape (1196, 13)
+[2025-04-30 10:40:29,748] 47 root - INFO - Starting basic preprocessing
+[2025-04-30 10:40:29,750] 53 root - INFO - Preprocessing complete
+[2025-04-30 10:40:29,790] 68 root - INFO - Raw data saved to artifacts/raw_data.csv
+[2025-04-30 10:40:29,802] 73 root - INFO - Train and test sets saved to artifacts/train.csv and artifacts/test.csv
+[2025-04-30 10:42:42,025] 35 root - INFO - Loading dataset from /home/disha-soni/Desktop/project/ml_project/notebook/data/loans.csv
+[2025-04-30 10:42:42,030] 37 root - INFO - Dataset loaded successfully with shape (1196, 13)
+[2025-04-30 10:42:42,030] 47 root - INFO - Starting basic preprocessing
+[2025-04-30 10:42:42,030] 53 root - INFO - Preprocessing complete
+[2025-04-30 10:42:42,063] 68 root - INFO - Raw data saved to artifacts/raw_data.csv
+[2025-04-30 10:42:42,075] 73 root - INFO - Train and test sets saved to artifacts/train.csv and artifacts/test.csv
+[2025-04-30 10:44:59,963] 35 root - INFO - Loading dataset from /home/disha-soni/Desktop/project/ml_project/notebook/data/loans.csv
+[2025-04-30 10:44:59,968] 37 root - INFO - Dataset loaded successfully with shape (1196, 13)
+[2025-04-30 10:44:59,968] 47 root - INFO - Starting basic preprocessing
+[2025-04-30 10:44:59,968] 53 root - INFO - Preprocessing complete
+[2025-04-30 10:45:00,001] 68 root - INFO - Raw data saved to artifacts/raw_data.csv
+[2025-04-30 10:45:00,012] 73 root - INFO - Train and test sets saved to artifacts/train.csv and artifacts/test.csv
+[2025-04-30 10:48:30,082] 35 root - INFO - Loading dataset from /home/disha-soni/Desktop/project/ml_project/notebook/data/loans.csv
+[2025-04-30 10:48:30,087] 37 root - INFO - Dataset loaded successfully with shape (1196, 13)
+[2025-04-30 10:48:30,087] 47 root - INFO - Starting basic preprocessing
+[2025-04-30 10:48:30,087] 53 root - INFO - Preprocessing complete
+[2025-04-30 10:48:30,121] 68 root - INFO - Raw data saved to artifacts/raw_data.csv
+[2025-04-30 10:48:30,132] 73 root - INFO - Train and test sets saved to artifacts/train.csv and artifacts/test.csv
+[2025-04-30 10:48:30,138] 91 root - INFO - Successfully loaded training and testing datasets.
+[2025-04-30 10:48:30,144] 67 root - INFO - Categorical columns: ['Gender', 'Married', 'Education', 'Self_Employed', 'Property_Area']
+[2025-04-30 10:48:30,144] 68 root - INFO - Numerical columns: ['ApplicantIncome', 'CoapplicantIncome', 'LoanAmount', 'Loan_Amount_Term', 'Credit_History', 'Dependents']
+[2025-04-30 10:48:30,144] 116 root - INFO - Applying preprocessing object on training and testing datasets.
+[2025-04-30 10:52:38,939] 35 root - INFO - Loading dataset from /home/disha-soni/Desktop/project/ml_project/notebook/data/loans.csv
+[2025-04-30 10:52:38,944] 37 root - INFO - Dataset loaded successfully with shape (1196, 13)
+[2025-04-30 10:52:38,944] 47 root - INFO - Starting basic preprocessing
+[2025-04-30 10:52:38,944] 53 root - INFO - Preprocessing complete
+[2025-04-30 10:52:38,977] 68 root - INFO - Raw data saved to artifacts/raw_data.csv
+[2025-04-30 10:52:38,988] 73 root - INFO - Train and test sets saved to artifacts/train.csv and artifacts/test.csv
+[2025-04-30 10:52:38,994] 92 root - INFO - Successfully loaded training and testing datasets.
+[2025-04-30 10:52:38,998] 68 root - INFO - Categorical columns: ['Gender', 'Married', 'Education', 'Self_Employed', 'Property_Area']
+[2025-04-30 10:52:38,998] 69 root - INFO - Numerical columns: ['ApplicantIncome', 'CoapplicantIncome', 'LoanAmount', 'Loan_Amount_Term', 'Credit_History', 'Dependents']
+[2025-04-30 10:52:38,998] 117 root - INFO - Applying preprocessing object on training and testing datasets.
+[2025-04-30 10:52:39,028] 131 root - INFO - Preprocessing object saved at: artifacts/preprocessor.pkl
